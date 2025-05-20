@@ -1,4 +1,4 @@
-## 📊 Data Analyst & UX Designer Portfolio
+## 📊 Data Analyst Portfolio
 
 My name is Mikael (aka Mikir) and Welcome to my portfolio! I blend **design thinking** with **data-driven insight** to craft digital experiences that not only **look great** but also **work smarter**.
 
@@ -26,7 +26,7 @@ I'm proficient in **Python**, **SQL**, and **Excel**, and familiar with tools su
 - **Languages:** Python and SQL
 - **Libraries:** pandas, NumPy and matplotlib
 - **Visualization:** Tableau, Power BI and Excel
-- **Databases:** MySQL, PostgreSQL, SQLite
+- **Databases:** MySQL
 - **Other:** Git/GitHub, Jupyter Notebook, VS Code
 
 ---
